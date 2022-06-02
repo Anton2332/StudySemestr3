@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2198d927-53d8-4923-956c-49c8b180a4c9": {
+      "ProjectGuid": "2198d927-53d8-4923-956c-49c8b180a4c9",
+      "DisplayName": "Problem 1 Event Implementation",
+      "ColorIndex": 0
+    },
+    "9d2ab8ac-c763-4dca-9e8b-1d78b6db509c": {
+      "ProjectGuid": "9d2ab8ac-c763-4dca-9e8b-1d78b6db509c",
+      "DisplayName": "Problem 2 King’s Gambit",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1950aa75-7f21-4e6f-9d17-afd4ca2fb8de": {
+      "ProjectGuid": "1950aa75-7f21-4e6f-9d17-afd4ca2fb8de",
+      "DisplayName": "Problem 3 Dependency Inversion",
+      "ColorIndex": 2
+    },
+    "957d155d-1d56-4dad-b33c-dc1be25494f7": {
+      "ProjectGuid": "957d155d-1d56-4dad-b33c-dc1be25494f7",
+      "DisplayName": "Problem 4 Work Force",
+      "ColorIndex": 3
+    },
+    "11b7e7ce-5933-4f5f-a483-819a3d7f8b9e": {
+      "ProjectGuid": "11b7e7ce-5933-4f5f-a483-819a3d7f8b9e",
+      "DisplayName": "Problem 5 King’s Gambit Extended",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

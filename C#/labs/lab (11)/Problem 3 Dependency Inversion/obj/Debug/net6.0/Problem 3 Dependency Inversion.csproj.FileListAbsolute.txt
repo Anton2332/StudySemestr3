@@ -1,0 +1,15 @@
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\bin\Debug\net6.0\Problem 3 Dependency Inversion.exe
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\bin\Debug\net6.0\Problem 3 Dependency Inversion.deps.json
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\bin\Debug\net6.0\Problem 3 Dependency Inversion.runtimeconfig.json
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\bin\Debug\net6.0\Problem 3 Dependency Inversion.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\bin\Debug\net6.0\ref\Problem 3 Dependency Inversion.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\bin\Debug\net6.0\Problem 3 Dependency Inversion.pdb
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\obj\Debug\net6.0\Problem 3 Dependency Inversion.csproj.AssemblyReference.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\obj\Debug\net6.0\Problem 3 Dependency Inversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\obj\Debug\net6.0\Problem 3 Dependency Inversion.AssemblyInfoInputs.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\obj\Debug\net6.0\Problem 3 Dependency Inversion.AssemblyInfo.cs
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\obj\Debug\net6.0\Problem 3 Dependency Inversion.csproj.CoreCompileInputs.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\obj\Debug\net6.0\Problem 3 Dependency Inversion.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\obj\Debug\net6.0\ref\Problem 3 Dependency Inversion.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\obj\Debug\net6.0\Problem 3 Dependency Inversion.pdb
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 3 Dependency Inversion\obj\Debug\net6.0\Problem 3 Dependency Inversion.genruntimeconfig.cache

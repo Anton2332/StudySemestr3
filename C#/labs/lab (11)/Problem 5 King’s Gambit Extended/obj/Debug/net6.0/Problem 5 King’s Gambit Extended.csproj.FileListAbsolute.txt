@@ -1,0 +1,15 @@
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\obj\Debug\net6.0\Problem 5 King’s Gambit Extended.csproj.AssemblyReference.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\obj\Debug\net6.0\Problem 5 King’s Gambit Extended.GeneratedMSBuildEditorConfig.editorconfig
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\obj\Debug\net6.0\Problem 5 King’s Gambit Extended.AssemblyInfoInputs.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\obj\Debug\net6.0\Problem 5 King’s Gambit Extended.AssemblyInfo.cs
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\obj\Debug\net6.0\Problem 5 King’s Gambit Extended.csproj.CoreCompileInputs.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\bin\Debug\net6.0\Problem 5 King’s Gambit Extended.exe
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\bin\Debug\net6.0\Problem 5 King’s Gambit Extended.deps.json
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\bin\Debug\net6.0\Problem 5 King’s Gambit Extended.runtimeconfig.json
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\bin\Debug\net6.0\Problem 5 King’s Gambit Extended.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\bin\Debug\net6.0\ref\Problem 5 King’s Gambit Extended.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\bin\Debug\net6.0\Problem 5 King’s Gambit Extended.pdb
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\obj\Debug\net6.0\Problem 5 King’s Gambit Extended.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\obj\Debug\net6.0\ref\Problem 5 King’s Gambit Extended.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\obj\Debug\net6.0\Problem 5 King’s Gambit Extended.pdb
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 5 King’s Gambit Extended\obj\Debug\net6.0\Problem 5 King’s Gambit Extended.genruntimeconfig.cache

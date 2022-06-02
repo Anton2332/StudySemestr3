@@ -1,0 +1,15 @@
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\bin\Debug\net6.0\Problem 4 Work Force.exe
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\bin\Debug\net6.0\Problem 4 Work Force.deps.json
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\bin\Debug\net6.0\Problem 4 Work Force.runtimeconfig.json
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\bin\Debug\net6.0\Problem 4 Work Force.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\bin\Debug\net6.0\ref\Problem 4 Work Force.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\bin\Debug\net6.0\Problem 4 Work Force.pdb
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\obj\Debug\net6.0\Problem 4 Work Force.csproj.AssemblyReference.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\obj\Debug\net6.0\Problem 4 Work Force.GeneratedMSBuildEditorConfig.editorconfig
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\obj\Debug\net6.0\Problem 4 Work Force.AssemblyInfoInputs.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\obj\Debug\net6.0\Problem 4 Work Force.AssemblyInfo.cs
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\obj\Debug\net6.0\Problem 4 Work Force.csproj.CoreCompileInputs.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\obj\Debug\net6.0\Problem 4 Work Force.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\obj\Debug\net6.0\ref\Problem 4 Work Force.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\obj\Debug\net6.0\Problem 4 Work Force.pdb
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 4 Work Force\obj\Debug\net6.0\Problem 4 Work Force.genruntimeconfig.cache

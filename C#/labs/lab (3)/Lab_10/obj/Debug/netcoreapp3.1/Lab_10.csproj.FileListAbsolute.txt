@@ -1,0 +1,13 @@
+E:\my program\Програмування\2 курс\c#\Пр\Lab_3\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.exe
+E:\my program\Програмування\2 курс\c#\Пр\Lab_3\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.deps.json
+E:\my program\Програмування\2 курс\c#\Пр\Lab_3\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.runtimeconfig.json
+E:\my program\Програмування\2 курс\c#\Пр\Lab_3\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.runtimeconfig.dev.json
+E:\my program\Програмування\2 курс\c#\Пр\Lab_3\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.dll
+E:\my program\Програмування\2 курс\c#\Пр\Lab_3\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.pdb
+E:\my program\Програмування\2 курс\c#\Пр\Lab_3\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.GeneratedMSBuildEditorConfig.editorconfig
+E:\my program\Програмування\2 курс\c#\Пр\Lab_3\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.AssemblyInfoInputs.cache
+E:\my program\Програмування\2 курс\c#\Пр\Lab_3\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.AssemblyInfo.cs
+E:\my program\Програмування\2 курс\c#\Пр\Lab_3\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.csproj.CoreCompileInputs.cache
+E:\my program\Програмування\2 курс\c#\Пр\Lab_3\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.dll
+E:\my program\Програмування\2 курс\c#\Пр\Lab_3\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.pdb
+E:\my program\Програмування\2 курс\c#\Пр\Lab_3\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.genruntimeconfig.cache

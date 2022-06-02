@@ -1,0 +1,15 @@
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\bin\Debug\net6.0\Problem 2 King’s Gambit.exe
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\bin\Debug\net6.0\Problem 2 King’s Gambit.deps.json
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\bin\Debug\net6.0\Problem 2 King’s Gambit.runtimeconfig.json
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\bin\Debug\net6.0\Problem 2 King’s Gambit.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\bin\Debug\net6.0\ref\Problem 2 King’s Gambit.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\bin\Debug\net6.0\Problem 2 King’s Gambit.pdb
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\obj\Debug\net6.0\Problem 2 King’s Gambit.csproj.AssemblyReference.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\obj\Debug\net6.0\Problem 2 King’s Gambit.GeneratedMSBuildEditorConfig.editorconfig
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\obj\Debug\net6.0\Problem 2 King’s Gambit.AssemblyInfoInputs.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\obj\Debug\net6.0\Problem 2 King’s Gambit.AssemblyInfo.cs
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\obj\Debug\net6.0\Problem 2 King’s Gambit.csproj.CoreCompileInputs.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\obj\Debug\net6.0\Problem 2 King’s Gambit.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\obj\Debug\net6.0\ref\Problem 2 King’s Gambit.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\obj\Debug\net6.0\Problem 2 King’s Gambit.pdb
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 2 King’s Gambit\obj\Debug\net6.0\Problem 2 King’s Gambit.genruntimeconfig.cache

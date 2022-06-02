@@ -1,0 +1,16 @@
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\bin\Debug\net5.0\Problem 1 Event Implementation.exe
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\bin\Debug\net5.0\Problem 1 Event Implementation.deps.json
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\bin\Debug\net5.0\Problem 1 Event Implementation.runtimeconfig.json
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\bin\Debug\net5.0\Problem 1 Event Implementation.runtimeconfig.dev.json
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\bin\Debug\net5.0\Problem 1 Event Implementation.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\bin\Debug\net5.0\ref\Problem 1 Event Implementation.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\bin\Debug\net5.0\Problem 1 Event Implementation.pdb
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\obj\Debug\net5.0\Problem 1 Event Implementation.csproj.AssemblyReference.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\obj\Debug\net5.0\Problem 1 Event Implementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\obj\Debug\net5.0\Problem 1 Event Implementation.AssemblyInfoInputs.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\obj\Debug\net5.0\Problem 1 Event Implementation.AssemblyInfo.cs
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\obj\Debug\net5.0\Problem 1 Event Implementation.csproj.CoreCompileInputs.cache
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\obj\Debug\net5.0\Problem 1 Event Implementation.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\obj\Debug\net5.0\ref\Problem 1 Event Implementation.dll
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\obj\Debug\net5.0\Problem 1 Event Implementation.pdb
+E:\my program\ООП\2 курс\c#\Пр\LAB 11 Communication and Events\Problem 1 Event Implementation\obj\Debug\net5.0\Problem 1 Event Implementation.genruntimeconfig.cache
