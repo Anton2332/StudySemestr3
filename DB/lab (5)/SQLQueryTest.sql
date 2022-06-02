@@ -1,0 +1,149 @@
+﻿USE inc_out
+--SELECT * FROM Income WHERE inc > 2000;-- виведе всі стовбці за умови що inc > 2000
+---------------------
+--SELECT * FROM Income ;-- виведе всі 
+---------------------
+--SELECT point, code FROM Income ;-- виведе лише стовбець point та code
+---------------------
+--SELECT point as p, code as c FROM Income;-- псевдонім щоб скоротити імя стовбця використовуємо за ним
+---------------------
+--SELECT point p, code c FROM Income;-- таке саме як і попереднє
+---------------------
+--SELECT DISTINCT point,date From Income;-- забере рядки які співпадають
+---------------------
+--SELECT code c,point p FROM  Income
+--ORDER BY 2,1 DESC;-- посорує спочатку за 2 а мотім за 1 але вже за спаданням
+---------------------
+--SELECT code ,point FROM Income
+--WHERE code >= 3;--фільтрація як що code більше рувне 3 тоді відбудеться вивід
+---------------------
+--is null перевірка на нал 
+--LIKE порівняння за вказаним шаблоном
+--IN порівняння для визначення відповідності
+--EXISTS повертає true як що поверне хочаб одне стручку
+--ALL true як що всі сначення підпадають умові  any ,some як що деяку підпадають до умави
+--SELECT CAST(code AS nvarchar) + ' '+ CAST(point AS nvarchar) AS FullCodePoint --cast використовується для не явного переведення типів
+--FROM Income;
+--SELECT code , SQRT(point * inc) AS Formula
+--FROM Income;
+--COUNT(*) перевіряє клькість наявних стрічок
+--COUNT(імя) кількість у вказаному стовбі не враховуючи null
+--SUM(імя) сума значень у вказаному стовбці (парцює лише з числовими типами
+--AVG(імя) середнє значення для вказаного стовбця
+--MIN(імя) мінімальне значення вказаного стовбця
+--MAX(імя) максимальне
+---------------------
+--SELECT COUNT(*) NUM , COUNT(code) numID,SUM(inc) sumInc,
+--		AVG(inc) avgInc,MIN(inc) minInc,MAX(inc)maxInc
+--FROM Income ; -- не можна виводити одночасно стовбці зданими і статичну інформацію
+---------------
+--SELECT COUNT(DISTINCT inc) numInc, AVG(DISTINCT inc) avgInc --виведе кількість inc без повторень та середнє inc без повторень
+--FROM Income;
+-----------------
+--SELECT point ,COUNT(*)num,MIN(inc)minInc,MAX(inc) maxInc--групує по point та одночасно рахує скільки таких стрічок є та
+--FROM Income--	та рахує серед них min та max
+--GROUP BY point;
+------------------
+--SELECT point , COUNT(*) num
+--FROM Income
+--WHERE inc >= 3000 --умова перед групуванням на inc
+--GROUP BY point
+--HAVING COUNT(*)>= 5--умова на згупування
+--ORDER BY num DESC;--сортування за спаданням за num
+--************************************--
+--Обєднання таблиць
+----------------------------
+--SELECT * FROM Income,Income_o;--декартовий добуток
+----------------------------
+--SELECT * FROM Income,Income_o,Outcome;--декартовий добуток 3 таблиць
+--------------------------------------
+--SELECT * FROM Income I,Outcome O
+--WHERE I.point = O.point;--видбирає з співпадінням по певному стовбцям
+--------------------------------------
+--SELECT * FROM Income I,Outcome O
+--WHERE I.point = O.point AND I.date = O.date; --в обох рівне і point і date
+----------------------------------------
+--Обєднання таблиці самой з собою
+--SELECT I1.point point1, I2.point point2,I1.inc
+--FROM Income I1,Income I2
+--WHERE I1.inc = I2.inc AND I1.point < I2.point;
+--------------------------------------------
+--*****************************************--
+--Конструкція JOIN--
+--SELECT *
+--FROM Income I JOIN Outcome O ON I.code = O.code;--приєднали всі в яких code співпадав
+----------------------------------------------------------
+--Ліве приєднання 
+--SELECT *
+--FROM Income I LEFT JOIN Outcome O ON I.code = O.code;--виведе з 1 таблиці всі і співставить ті що підпадають умові всі інші будуть null
+----------------------------------------------------------
+--SELECT *
+--FROM Income I RIGHT JOIN Outcome O ON I.date = O.date;--спочатку додасть 2 потіб підставить ті значення 1 які підпадають до умови
+------------------------------------------------------------------
+--SELECT *
+--FROM Income I FULL JOIN Outcome O ON I.date = O.date;--виведе всі з обох але співставляться лише ті що підлягають умові
+--------------------------------------------------------------------
+--SELECT *
+--FROM Income I CROSS JOIN Outcome O;--альтернатива декартовому обєднанню
+--**************************************************************--
+-------------UNION-------------------
+--Обєднання декількох запитів в один набір даних
+--SELECT *
+--FROM Income I JOIN Outcome O ON I.date = O.date
+--UNION
+--SELECT *
+--FROM Income I JOIN Outcome I2 ON I.date = I2.date
+--ORDER BY 3 DESC;
+---------------------------------------------------
+--**********************************************--
+-----------Підзапити-----------------------
+--SELECT code , Zen.out
+--FROM Income I,(SELECT point , O.out FROM Outcome O) AS Zen
+--WHERE I.inc = Zen.out;--в результаті під запиту утвориться нова таблиця яка задавільняє умови
+--------------------------------------------
+--SELECT code, point,
+--	(SELECT COUNT(*) FROM Outcome O
+--	WHERE I.point = O.point)AS num -- рахуємо кількість рядків які підходять по умові
+--FROM Income I;
+-------------------------------------
+--SELECT * FROM Income
+--WHERE date IN (SELECT date FROM Outcome);--вивести всі відомості про ті які співпали з значенням з іншой таблиці
+---------------------------------------------
+--SELECT * FROM Income
+--WHERE point IN
+--	(SELECT point FROM Outcome WHERE Income.code < Outcome.out);
+--------------------------------------------------
+--*****************************************--
+--SELECT * FROM Income
+--WHERE EXISTS --поверне true як що повернена хочаб одна стрічка
+--	(SELECT * FROM Outcome WHERE Income.code = Outcome.code);
+----------------------------------------------------------
+--SELECT * FROM Income
+--WHERE code = ANY (SELECT point FROM Outcome);
+-------------------------------------------
+--***************************************--
+--SELECT code , point,
+--	CASE code
+--		WHEN '1' THEN 'TH1'
+--		WHEN '2' THEN 'TH2'
+--		WHEN '3' THEN 'TH3'
+--		WHEN '4' THEN 'TH4'
+--		ELSE 'TH'
+--	END AS Model
+--FROM Income;
+------------------------------------------
+--SELECT code , point,
+--	CASE 
+--		WHEN  code<=4 THEN 'TH1'
+--		WHEN code <= 8 THEN 'TH2'
+--		WHEN code <= 12 THEN 'TH3'
+--		WHEN code <= 16 THEN 'TH4'
+--		ELSE 'TH'
+--	END AS Model
+--FROM Income;
+
+
+
+
+
+

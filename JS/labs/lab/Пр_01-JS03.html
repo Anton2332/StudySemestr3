@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Практична робота_01-JS01</title>
+
+</head>
+
+<body>
+
+  Сторінка привітання<br>
+  "Hello WORLD"<br>
+  <button value="Кнопка вітання" id="button1">Привітати СВІТ</button>
+  <button id="button2">Повернути</button>
+  <script>
+
+
+    var b1 = document.getElementById("button1");
+    var b2 = document.getElementById("button2");
+
+    b1.onclick = () => {
+      "use strict";
+
+      b1.style.display = "none";
+
+      var h1 = document.createElement('h1');
+
+      h1.className = "big";
+
+      h1.id = "big";
+
+      document.body.appendChild(h1);
+
+      h1.appendChild(document.createTextNode("Я ВІТАЮ ТЕБЕ СВІТ"));
+
+      document.getElementsByTagName("h1")[0].style.color = "red";
+      document.getElementById("big").style.fontSize = "4em";
+      document.getElementById("big").style.textAlign = "center";
+
+      b2.style.display = "block";
+    };
+
+    b2.onclick = () => {
+      b2.style.display = "none";
+
+      var h1 = document.querySelector("h1");
+
+      h1.remove();
+
+      b1.style.display = "block";
+    };
+
+    b2.style.display = "none";
+
+  </script>
+
+</body>
+
+</html>

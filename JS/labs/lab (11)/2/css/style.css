@@ -1,0 +1,17 @@
+body{
+   margin: 0;
+}
+.container {
+   width: 500px;
+   height: 500px;
+   margin: 0;
+   background-color: blue;
+}
+
+#square {
+   margin: 0;
+   width: 100px;
+   height: 100px;
+   background-color: yellow;
+   position: absolute;
+}

@@ -1,0 +1,12 @@
+E:\my program\Програмування\2 курс\c#\Пр\1\Solution1\7\bin\Debug\netcoreapp3.1\7.exe
+E:\my program\Програмування\2 курс\c#\Пр\1\Solution1\7\bin\Debug\netcoreapp3.1\7.deps.json
+E:\my program\Програмування\2 курс\c#\Пр\1\Solution1\7\bin\Debug\netcoreapp3.1\7.runtimeconfig.json
+E:\my program\Програмування\2 курс\c#\Пр\1\Solution1\7\bin\Debug\netcoreapp3.1\7.runtimeconfig.dev.json
+E:\my program\Програмування\2 курс\c#\Пр\1\Solution1\7\bin\Debug\netcoreapp3.1\7.dll
+E:\my program\Програмування\2 курс\c#\Пр\1\Solution1\7\bin\Debug\netcoreapp3.1\7.pdb
+E:\my program\Програмування\2 курс\c#\Пр\1\Solution1\7\obj\Debug\netcoreapp3.1\7.AssemblyInfoInputs.cache
+E:\my program\Програмування\2 курс\c#\Пр\1\Solution1\7\obj\Debug\netcoreapp3.1\7.AssemblyInfo.cs
+E:\my program\Програмування\2 курс\c#\Пр\1\Solution1\7\obj\Debug\netcoreapp3.1\7.csproj.CoreCompileInputs.cache
+E:\my program\Програмування\2 курс\c#\Пр\1\Solution1\7\obj\Debug\netcoreapp3.1\7.dll
+E:\my program\Програмування\2 курс\c#\Пр\1\Solution1\7\obj\Debug\netcoreapp3.1\7.pdb
+E:\my program\Програмування\2 курс\c#\Пр\1\Solution1\7\obj\Debug\netcoreapp3.1\7.genruntimeconfig.cache

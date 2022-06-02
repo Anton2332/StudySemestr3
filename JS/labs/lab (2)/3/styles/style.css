@@ -1,0 +1,15 @@
+html {
+  font-size: 10px;
+}
+.img{
+  width: 240px;
+  height: 380px;
+  background-image: url(../img/traffic_light.jpg);
+  background-position:0 0 ;
+  
+}
+
+img{
+  width: 250px;
+}
+

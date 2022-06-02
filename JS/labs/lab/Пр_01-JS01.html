@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Практична робота_01-JS01</title>
+  <style>
+    h1 {
+      font: Monaco, Courier, monospace 28px;
+      color: #618ad2;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Підключення внутрішніх скриптів JavaSkript</h1>
+  <p id="blinking">
+    Підключення скрптів можна виконувати різними способамию <br>
+    Один із способів полягає в описіскриптів прямо всередині HTML-сторінки.
+  </p>
+  <script>
+
+    var p = document.getElementById("blinking");
+
+    setInterval(function () {
+      if (p.style.fontSize == "13px") {
+        p.style.fontSize = "18px";
+        p.style.color = "#D25424";
+      } else {
+        p.style.fontSize = "13px";
+        p.style.color = "#9E1AD2";
+      }
+    }, 2000);
+
+    var heading = document.querySelector("h1");
+    setInterval(function () {
+      var hue = "rgb(" + (Math.floor(Math.random() * 256)) + "," + (Math.floor(Math.random() * 256)) + "," + (Math.floor(Math.random() * 256)) + ")";
+      heading.style.color = hue;
+    }, 1000)
+
+  </script>
+
+</body>
+
+</html>

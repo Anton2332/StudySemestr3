@@ -1,0 +1,6 @@
+﻿USE inc_out
+SELECT *
+FROM Income_o
+--WHERE inc >= 5000 AND inc <= 10000
+WHERE inc BETWEEN 5000 AND 10000
+ORDER BY inc;
